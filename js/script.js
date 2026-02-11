@@ -1,14 +1,14 @@
-function salvarUsuario(){
-    alert("Usuário adicionado!");
-}
+// function salvarUsuario(){
+//     alert("Usuário adicionado!");
+// }
 
-function salvarTarefa(){
-    alert("Tarefa adicionada!");
-}
+// function salvarTarefa(){
+//     alert("Tarefa adicionada!");
+// }
 
-function salvarProjeto(){
-    alert("Projeto adicionado!");
-}
+// function salvarProjeto(){
+//     alert("Projeto adicionado!");
+// }
 
 
 function fecharFormulario(){
